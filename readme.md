@@ -6,7 +6,7 @@ Use Visual Studio create two .Net Core projects. One is c++/cli. Another is C# w
 
 c++/cli vcxproj:
 ```xml
-<!-- NOTE: ONLY MAJOR THINGS ARE POST. THE FULL FILE CAN BE FOUND FROM https://github.com/yeunglee/msbuild_issue/ClrLib/ClrLib.vcxproj -->
+<!-- NOTE: ONLY MAJOR THINGS ARE POST. THE FULL FILE CAN BE FOUND FROM https://raw.githubusercontent.com/yeunglee/msbuild_issue/master/ClrLib/ClrLib.vcxproj -->
   ...
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
